@@ -1,0 +1,16 @@
+
+  /***** 
+   IMPORTANT NOTE FOR MY ACTIVITY: 
+   in the app.component.html here are my application of Data Binding: 
+
+   (app.component.html)
+   Interpolation parts: 
+    > Line 22 -> Name variable used
+    > Line 41 -> History variable used
+    > Line 58, Line 64, Line 71, Line 78 -> Mission, Vision, Goals, Objectives variables used
+
+   Event Binding parts: 
+    > Line 28 -> updateDescription() is used in the button.
+    > In every click of the button in Line 28, the Description in Line 26 will be updated.
+  */
+
